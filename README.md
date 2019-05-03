@@ -3,7 +3,7 @@ Automatically updates git repos
 
 The following python script updates git repositories placed in download directory
 
-###################For running#############################
+################### For running #############################
 
 git clone https://github.com/ask1234560/github-repoupdater.git
 
