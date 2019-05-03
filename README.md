@@ -1,7 +1,7 @@
 # github-repoupdater
 Automatically updates git repos
 
-The following python script updates git repositories placed in download directory
+The following python script updates all git repositories placed in download directory
 
 ################### For running #############################
 
