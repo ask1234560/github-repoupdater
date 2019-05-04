@@ -17,6 +17,7 @@ if os.path.exists(dpath):
     sys.stdout.write(BLUE)
     print("\n\nInside downloads directory")
     folders=[ i for i in os.listdir() if os.path.isdir(i) and os.path.isdir(os.path.join(dpath,i,".git")) ]
+    folders.sort(key=lambda x:x.lower())
     sys.stdout.write(GREEN)
     print("\n\nFolders with git",folders)
     for j,i in enumerate(folders,0):
