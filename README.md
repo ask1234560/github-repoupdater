@@ -12,10 +12,10 @@
 
 ### The following python script updates all git repositories placed in ~/Downloads directory
 
-### For running --->
+### For running 
 
-git clone https://github.com/ask1234560/github-repoupdater.git
+* git clone https://github.com/ask1234560/github-repoupdater.git
 
-cd github-repoupdater
+* cd github-repoupdater
 
-python3 github-repoupdater.py
+* python3 github-repoupdater.py 
