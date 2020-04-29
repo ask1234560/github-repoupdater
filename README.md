@@ -1,5 +1,5 @@
-# Github repoupdater
-The following python script updates all git repositories placed in ~/Downloads directory.
+# github-repoupdater
+The python script update git repos in ~/Downloads.
 
 
 ## Screenshots
